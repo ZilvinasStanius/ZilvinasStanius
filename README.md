@@ -2,13 +2,12 @@
 
 ## Hi there 👋
 
-<img src="Animation.gif" alt="GitHub Banner" width="10%" height="10%" style="border-radius: 50%; float: left; margin-right: 15px;" />
-
-**💫 About Me:**
-
-Hi, my name is Žilvinas 👋. I'm a passionate full-stack developer 💻 with a love for coding and constantly learning new things. I’m always excited to improve my skills, tackle new challenges, and bring fresh ideas to life through code ✨.<br><br>🌱 I’m currently diving into Next.js ⚛️ and have plans to explore PHP soon 🐘.<br><br>
-
-</div>
+<p align="left">
+  <img src="Animation.gif" alt="GitHub Banner" width="10%" height="10%" style="border-radius: 50%; margin-right: 15px; vertical-align: middle;" />
+  <strong>💫 About Me:</strong><br>
+  Hi, my name is Žilvinas 👋. I'm a passionate full-stack developer 💻 with a love for coding and constantly learning new things. I’m always excited to improve my skills, tackle new challenges, and bring fresh ideas to life through code ✨.<br><br>
+  🌱 I’m currently diving into Next.js ⚛️ and have plans to explore PHP soon 🐘.
+</p>
 
 <div align="left">
    Let’s connect and learn together! 🤝 ---------->>
