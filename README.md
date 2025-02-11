@@ -10,7 +10,7 @@ Hi, my name is Žilvinas 👋. I'm a passionate full-stack developer 💻 with a
 
 </div>
 <div align="left">
-  <a href="www.linkedin.com/in/zilvinas-stanius" target="_blank">
+  <a href="https://www.linkedin.com/in/zilvinas-stanius" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
