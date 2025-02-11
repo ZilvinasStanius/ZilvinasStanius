@@ -1,6 +1,6 @@
 <img src="Banner.png" alt="GitHub Banner" width="100%" />
 
-##<img src="Animation.gif" alt="GitHub Banner" width="10%" height="10%" style="border-radius: 50%; margin-right: 15px; vertical-align: middle;" /> Hi there! 👋
+<img src="Animation.gif" alt="GitHub Banner" width="10%" height="10%" style="border-radius: 50%; margin-right: 15px; vertical-align: middle;" /> Hi there! 👋
 
 <p align="left">
   
