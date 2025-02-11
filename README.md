@@ -6,12 +6,14 @@
 
 **💫 About Me:**
 
-Hi, my name is Žilvinas 👋. I'm a passionate full-stack developer 💻 with a love for coding and constantly learning new things. I’m always excited to improve my skills, tackle new challenges, and bring fresh ideas to life through code ✨. Let’s connect and learn together! 🤝<br><br>🌱 I’m currently diving into Next.js ⚛️ and have plans to explore PHP soon 🐘.<br><br>
+Hi, my name is Žilvinas 👋. I'm a passionate full-stack developer 💻 with a love for coding and constantly learning new things. I’m always excited to improve my skills, tackle new challenges, and bring fresh ideas to life through code ✨.<br><br>🌱 I’m currently diving into Next.js ⚛️ and have plans to explore PHP soon 🐘.<br><br>
 
 </div>
+
 <div align="left">
+   Let’s connect and learn together! 🤝 ---------->>
   <a href="https://www.linkedin.com/in/zilvinas-stanius" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
