@@ -1,16 +1,18 @@
-<img src="Banner_m.gif" alt="GitHub Banner" width="100%" />
+<img src="BANNER.gif" alt="GitHub Banner" width="100%" />
 
-## Hi there! 👋
+<h1> Hi there! 👋 </h1>
 
 <p align="left">
   
   ## <strong>💫 About Me:</strong><br>
-  Hi, my name is Žilvinas 👋. I'm a passionate full-stack developer 💻 with a love for coding and constantly learning new things. I’m always excited to improve my skills, tackle new challenges, and bring fresh ideas to life through code ✨.<br><br>
-  🌱 I’m currently diving into Next.js ⚛️ and have plans to explore PHP soon 🐘.
+I am Žilvinas, a full-stack developer 💻 and programming enthusiast from Lithuania 🇱🇹. With a love for coding and learning new things, I am always excited to improve my skills 🔧, tackle new challenges 🚀, and bring new ideas 💡 to life through code. Through thorough goal-setting 🎯 and determination 💪, I can reach any milestone I set my mind to. I am always open to expanding my horizons 🌍 and don't miss an opportunity to elevate my skills 📈.
+
+While I am currently diving into Next.js ⚛️, I am looking forward to exploring PHP 🐘 soon.
+
 </p>
 
 <div align="left">
-   Let’s connect and learn together! 🤝 ---------->>
+  Let's connect!---->>
   <a href="https://www.linkedin.com/in/zilvinas-stanius" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
