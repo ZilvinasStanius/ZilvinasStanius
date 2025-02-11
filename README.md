@@ -1,4 +1,4 @@
-<img src="Projektai.png" alt="GitHub Banner" width="100%" />
+<img src="Projektai.png" alt="GitHub Banner" width="100%" height="40%" />
 
 ## Hi there 👋
 
