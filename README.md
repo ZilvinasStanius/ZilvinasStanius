@@ -7,17 +7,6 @@
   ## <strong>💫 About Me:</strong><br>
 I am Žilvinas, a full-stack developer 💻 and programming enthusiast from Lithuania 🇱🇹. With a love for coding and learning new things, I am always excited to improve my skills 🔧, tackle new challenges 🚀, and bring new ideas 💡 to life through code. Through thorough goal-setting 🎯 and determination 💪, I can reach any milestone I set my mind to. I am always open to expanding my horizons 🌍 and don't miss an opportunity to elevate my skills 📈.
 
-While I am currently diving into Next.js ⚛️, I am looking forward to exploring PHP 🐘 soon.
-
-</p>
-
-<div align="left">
-  Let's connect! ➡️
-  <a href="https://www.linkedin.com/in/zilvinas-stanius" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo" />
-  </a>
-</div>
-
 ## Technologies I Use:
 
 <p align="center">
@@ -40,12 +29,6 @@ While I am currently diving into Next.js ⚛️, I am looking forward to explori
 
 </p>
 
-## Technologies I’m Currently Learning:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ZilvinasStanius&show_icons=true&theme=dark&icon_color=ffffff&rank_icon=github&hide_title=true&bg_color=172139&text_color=d9d9d9&border_color=5de0e6&ring_color=5de0e6&border_radius=12" alt="GitHub Stats" height="160px"/>
